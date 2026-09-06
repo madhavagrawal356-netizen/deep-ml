@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:17:59.964Z",
+  "generated_at": "2026-10-21T16:18:02.839Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -65,6 +65,84 @@
       "last_pushed_at": "2026-09-04T20:07:34.838Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-09-06T19:19:53.660Z",
+      "last_pushed_at": "2026-09-06T19:19:53.660Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-09-06T19:21:50.724Z",
+      "last_pushed_at": "2026-09-06T19:21:50.724Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:49": {
+      "kind": "problem",
+      "id": "49",
+      "title": "Implement Adam Optimization Algorithm",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/49",
+      "path": "problems/0049-implement-adam-optimization-algorithm",
+      "first_solved_at": "2026-09-06T19:53:27.338Z",
+      "last_pushed_at": "2026-09-06T19:53:27.338Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:54": {
+      "kind": "problem",
+      "id": "54",
+      "title": "Implementing a Simple RNN",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/54",
+      "path": "problems/0054-implementing-a-simple-rnn",
+      "first_solved_at": "2026-09-06T20:18:40.106Z",
+      "last_pushed_at": "2026-09-06T20:18:40.106Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-09-06T20:34:44.332Z",
+      "last_pushed_at": "2026-09-06T20:34:44.332Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:59": {
+      "kind": "problem",
+      "id": "59",
+      "title": "Implement Long Short-Term Memory (LSTM) Network",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/59",
+      "path": "problems/0059-implement-long-short-term-memory-lstm-network",
+      "first_solved_at": "2026-09-06T21:50:46.759Z",
+      "last_pushed_at": "2026-09-06T21:50:46.759Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
