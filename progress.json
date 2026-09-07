@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:18:02.839Z",
+  "generated_at": "2026-10-21T16:18:07.014Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -143,6 +143,71 @@
       "last_pushed_at": "2026-09-06T21:50:46.759Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:87": {
+      "kind": "problem",
+      "id": "87",
+      "title": "Adam Optimizer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/87",
+      "path": "problems/0087-adam-optimizer",
+      "first_solved_at": "2026-09-07T17:22:27.197Z",
+      "last_pushed_at": "2026-09-07T17:22:27.197Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:89": {
+      "kind": "problem",
+      "id": "89",
+      "title": "The Pattern Weaver's Code",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/89",
+      "path": "problems/0089-the-pattern-weaver-s-code",
+      "first_solved_at": "2026-09-07T17:50:59.794Z",
+      "last_pushed_at": "2026-09-07T17:50:59.794Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:96": {
+      "kind": "problem",
+      "id": "96",
+      "title": "Implement the Hard Sigmoid Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/96",
+      "path": "problems/0096-implement-the-hard-sigmoid-activation-function",
+      "first_solved_at": "2026-09-07T17:55:34.363Z",
+      "last_pushed_at": "2026-09-07T17:55:34.363Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:97": {
+      "kind": "problem",
+      "id": "97",
+      "title": "Implement the ELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/97",
+      "path": "problems/0097-implement-the-elu-activation-function",
+      "first_solved_at": "2026-09-07T18:32:15.280Z",
+      "last_pushed_at": "2026-09-07T18:32:15.280Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:149": {
+      "kind": "problem",
+      "id": "149",
+      "title": "Adadelta Optimizer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/149",
+      "path": "problems/0149-adadelta-optimizer",
+      "first_solved_at": "2026-09-07T18:46:32.356Z",
+      "last_pushed_at": "2026-09-07T18:46:32.356Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
