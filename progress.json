@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:18:07.014Z",
+  "generated_at": "2026-10-21T16:18:09.744Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -208,6 +208,71 @@
       "last_pushed_at": "2026-09-07T18:46:32.356Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:156": {
+      "kind": "problem",
+      "id": "156",
+      "title": "Implement SwiGLU activation function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/156",
+      "path": "problems/0156-implement-swiglu-activation-function",
+      "first_solved_at": "2026-09-08T14:31:35.944Z",
+      "last_pushed_at": "2026-09-08T14:31:35.944Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:216": {
+      "kind": "problem",
+      "id": "216",
+      "title": "Thanksgiving Feast Predictor: Softmax for Dish Selection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/216",
+      "path": "problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection",
+      "first_solved_at": "2026-09-08T14:40:34.805Z",
+      "last_pushed_at": "2026-09-08T14:40:34.805Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2026-09-08T15:03:47.266Z",
+      "last_pushed_at": "2026-09-08T15:03:47.266Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:98": {
+      "kind": "problem",
+      "id": "98",
+      "title": "Implement PReLU Forward and Backward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/98",
+      "path": "problems/0098-implement-prelu-forward-and-backward-pass",
+      "first_solved_at": "2026-09-08T15:20:56.611Z",
+      "last_pushed_at": "2026-09-08T15:20:56.611Z",
+      "language": "python",
+      "lines": 47
+    },
+    "problem:231": {
+      "kind": "problem",
+      "id": "231",
+      "title": "Temperature Decay Scheduler",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/231",
+      "path": "problems/0231-temperature-decay-scheduler",
+      "first_solved_at": "2026-09-08T15:34:57.390Z",
+      "last_pushed_at": "2026-09-08T15:34:57.390Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
