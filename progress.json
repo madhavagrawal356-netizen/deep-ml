@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:18:09.744Z",
+  "generated_at": "2026-10-21T16:18:13.973Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -273,6 +273,71 @@
       "last_pushed_at": "2026-09-08T15:34:57.390Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:99": {
+      "kind": "problem",
+      "id": "99",
+      "title": "Implement the Softplus Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/99",
+      "path": "problems/0099-implement-the-softplus-activation-function",
+      "first_solved_at": "2026-09-09T15:12:10.939Z",
+      "last_pushed_at": "2026-09-09T15:12:10.939Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:100": {
+      "kind": "problem",
+      "id": "100",
+      "title": "Implement the Softsign Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/100",
+      "path": "problems/0100-implement-the-softsign-activation-function",
+      "first_solved_at": "2026-09-09T15:17:18.533Z",
+      "last_pushed_at": "2026-09-09T15:17:18.533Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:102": {
+      "kind": "problem",
+      "id": "102",
+      "title": "Implement the Swish Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/102",
+      "path": "problems/0102-implement-the-swish-activation-function",
+      "first_solved_at": "2026-09-09T15:19:31.700Z",
+      "last_pushed_at": "2026-09-09T15:19:31.700Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2026-09-09T15:27:51.004Z",
+      "last_pushed_at": "2026-09-09T15:27:51.004Z",
+      "language": "python",
+      "lines": 39
+    },
+    "problem:124": {
+      "kind": "problem",
+      "id": "124",
+      "title": "Implement the Noisy Top-K Gating Function",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/124",
+      "path": "problems/0124-implement-the-noisy-top-k-gating-function",
+      "first_solved_at": "2026-09-09T16:24:23.700Z",
+      "last_pushed_at": "2026-09-09T16:24:23.700Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
