@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:18:13.973Z",
+  "generated_at": "2026-10-21T16:18:16.247Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -338,6 +338,32 @@
       "last_pushed_at": "2026-09-09T16:24:23.700Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:123": {
+      "kind": "problem",
+      "id": "123",
+      "title": "Calculate Computational Efficiency of MoE",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/123",
+      "path": "problems/0123-calculate-computational-efficiency-of-moe",
+      "first_solved_at": "2026-09-10T15:14:43.325Z",
+      "last_pushed_at": "2026-09-10T15:14:43.325Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:264": {
+      "kind": "problem",
+      "id": "264",
+      "title": "Implement the Tanh Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/264",
+      "path": "problems/0264-implement-the-tanh-activation-function",
+      "first_solved_at": "2026-09-10T15:17:50.866Z",
+      "last_pushed_at": "2026-09-10T15:17:50.866Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
