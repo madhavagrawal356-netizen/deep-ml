@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 29 problems · 0 labs · 0 math
+**31** solved · 31 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-09-04 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-09-04 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-04 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Sycophancy Rate from Paired Belief Prompts](https://www.deep-ml.com/problems/1334) | easy | 2026-09-16 | [solution](problems/1334-sycophancy-rate-from-paired-belief-prompts) |
 | [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-09-08 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
 | [Adadelta Optimizer](https://www.deep-ml.com/problems/149) | medium | 2026-09-07 | [solution](problems/0149-adadelta-optimizer) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-07 | [solution](problems/0087-adam-optimizer) |
@@ -38,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-09-09 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement the Noisy Top-K Gating Function](https://www.deep-ml.com/problems/124) | medium | 2026-09-09 | [solution](problems/0124-implement-the-noisy-top-k-gating-function) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-06 | [solution](problems/0054-implementing-a-simple-rnn) |
+| [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-09-16 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-04 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-09-08 | [solution](problems/0231-temperature-decay-scheduler) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-09-07 | [solution](problems/0089-the-pattern-weaver-s-code) |
