@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**31** solved · 31 problems · 0 labs · 0 math
+**32** solved · 32 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate Computational Efficiency of MoE](https://www.deep-ml.com/problems/123) | easy | 2026-09-10 | [solution](problems/0123-calculate-computational-efficiency-of-moe) |
+| [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2026-09-17 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-09-06 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement SwiGLU activation function](https://www.deep-ml.com/problems/156) | easy | 2026-09-08 | [solution](problems/0156-implement-swiglu-activation-function) |
 | [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2026-09-07 | [solution](problems/0097-implement-the-elu-activation-function) |
