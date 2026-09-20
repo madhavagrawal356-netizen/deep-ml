@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:18:25.188Z",
+  "generated_at": "2026-10-21T16:18:27.198Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -429,6 +429,71 @@
       "last_pushed_at": "2026-09-19T04:23:10.970Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:222": {
+      "kind": "problem",
+      "id": "222",
+      "title": "LoRA: Low-Rank Adaptation Forward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/222",
+      "path": "problems/0222-lora-low-rank-adaptation-forward-pass",
+      "first_solved_at": "2026-09-20T06:43:22.886Z",
+      "last_pushed_at": "2026-09-20T06:43:22.886Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:266": {
+      "kind": "problem",
+      "id": "266",
+      "title": "Implement the Hardtanh Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/266",
+      "path": "problems/0266-implement-the-hardtanh-activation-function",
+      "first_solved_at": "2026-09-20T06:46:53.576Z",
+      "last_pushed_at": "2026-09-20T06:46:53.576Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:158": {
+      "kind": "problem",
+      "id": "158",
+      "title": "Epsilon-Greedy Action Selection for n-Armed Bandit",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/158",
+      "path": "problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit",
+      "first_solved_at": "2026-09-20T22:51:21.765Z",
+      "last_pushed_at": "2026-09-20T22:51:21.765Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:317": {
+      "kind": "problem",
+      "id": "317",
+      "title": "Rubric-Based LLM Judge Evaluation",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/317",
+      "path": "problems/0317-rubric-based-llm-judge-evaluation",
+      "first_solved_at": "2026-09-20T23:28:32.210Z",
+      "last_pushed_at": "2026-09-20T23:28:32.210Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:319": {
+      "kind": "problem",
+      "id": "319",
+      "title": "Math Answer Verification with Equivalence Checking",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/319",
+      "path": "problems/0319-math-answer-verification-with-equivalence-checking",
+      "first_solved_at": "2026-09-20T23:40:30.601Z",
+      "last_pushed_at": "2026-09-20T23:40:30.601Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
