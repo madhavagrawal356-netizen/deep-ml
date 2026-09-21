@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:18:27.198Z",
+  "generated_at": "2026-10-21T16:18:29.408Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -494,6 +494,45 @@
       "last_pushed_at": "2026-09-20T23:40:30.601Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:113": {
+      "kind": "problem",
+      "id": "113",
+      "title": "Implement a Simple Residual Block with Shortcut Connection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/113",
+      "path": "problems/0113-implement-a-simple-residual-block-with-shortcut-connection",
+      "first_solved_at": "2026-09-21T15:05:54.294Z",
+      "last_pushed_at": "2026-09-21T15:05:54.294Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:223": {
+      "kind": "problem",
+      "id": "223",
+      "title": "QLoRA: Quantized Low-Rank Adaptation Forward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/223",
+      "path": "problems/0223-qlora-quantized-low-rank-adaptation-forward-pass",
+      "first_solved_at": "2026-09-21T15:15:25.619Z",
+      "last_pushed_at": "2026-09-21T15:15:25.619Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:290": {
+      "kind": "problem",
+      "id": "290",
+      "title": "Implement He Weight Initialization",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/290",
+      "path": "problems/0290-implement-he-weight-initialization",
+      "first_solved_at": "2026-09-21T15:30:28.887Z",
+      "last_pushed_at": "2026-09-21T15:30:28.887Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
