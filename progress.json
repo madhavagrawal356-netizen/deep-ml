@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:18:29.408Z",
+  "generated_at": "2026-10-21T16:18:31.637Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -533,6 +533,32 @@
       "last_pushed_at": "2026-09-21T15:30:28.887Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-09-23T02:15:10.091Z",
+      "last_pushed_at": "2026-09-23T02:15:10.091Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:323": {
+      "kind": "problem",
+      "id": "323",
+      "title": "Pairwise Preference Judge for LLM Comparison",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/323",
+      "path": "problems/0323-pairwise-preference-judge-for-llm-comparison",
+      "first_solved_at": "2026-09-23T18:19:45.307Z",
+      "last_pushed_at": "2026-09-23T18:19:45.307Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
