@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:18:31.637Z",
+  "generated_at": "2026-10-21T16:18:33.753Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -559,6 +559,32 @@
       "last_pushed_at": "2026-09-23T18:19:45.307Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:148": {
+      "kind": "problem",
+      "id": "148",
+      "title": "Adamax Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/148",
+      "path": "problems/0148-adamax-optimizer",
+      "first_solved_at": "2026-09-24T01:38:34.009Z",
+      "last_pushed_at": "2026-09-24T01:38:34.009Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:218": {
+      "kind": "problem",
+      "id": "218",
+      "title": "Compute the Hessian Matrix",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/218",
+      "path": "problems/0218-compute-the-hessian-matrix",
+      "first_solved_at": "2026-09-24T01:51:14.364Z",
+      "last_pushed_at": "2026-09-24T01:51:14.364Z",
+      "language": "python",
+      "lines": 61
     }
   }
 }
