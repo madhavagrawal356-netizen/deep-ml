@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:18:33.753Z",
+  "generated_at": "2026-10-21T16:19:57.428Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -585,6 +585,32 @@
       "last_pushed_at": "2026-09-24T01:51:14.364Z",
       "language": "python",
       "lines": 61
+    },
+    "problem:147": {
+      "kind": "problem",
+      "id": "147",
+      "title": "GeLU Activation Function ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/147",
+      "path": "problems/0147-gelu-activation-function",
+      "first_solved_at": "2026-09-29T05:01:18.679Z",
+      "last_pushed_at": "2026-09-29T05:01:18.679Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:289": {
+      "kind": "problem",
+      "id": "289",
+      "title": "Implement Xavier/Glorot Weight Initialization",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/289",
+      "path": "problems/0289-implement-xavier-glorot-weight-initialization",
+      "first_solved_at": "2026-09-29T17:04:28.815Z",
+      "last_pushed_at": "2026-09-29T17:04:28.815Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
