@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**47** solved · 47 problems · 0 labs · 0 math
+**51** solved · 51 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adamax Optimizer](https://www.deep-ml.com/problems/148) | easy | 2026-09-24 | [solution](problems/0148-adamax-optimizer) |
 | [Calculate Computational Efficiency of MoE](https://www.deep-ml.com/problems/123) | easy | 2026-09-10 | [solution](problems/0123-calculate-computational-efficiency-of-moe) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2026-09-17 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
+| [Conv2d Output Shape](https://www.deep-ml.com/problems/1232) | easy | 2026-10-03 | [solution](problems/1232-conv2d-output-shape) |
+| [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-10-03 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-09-19 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-09-29 | [solution](problems/0147-gelu-activation-function) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-09-21 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
@@ -33,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-09-06 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-09-06 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-09-23 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-10-03 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-09-04 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-09-04 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-04 | [solution](problems/0023-softmax-activation-function-implementation) |
@@ -42,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-07 | [solution](problems/0087-adam-optimizer) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-09-24 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2026-09-20 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
+| [Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/905) | medium | 2026-10-03 | [solution](problems/0905-implement-a-transformer-encoder-block) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-09-06 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-09-06 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-09-08 | [solution](problems/0107-implement-masked-self-attention) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:19:57.428Z",
+  "generated_at": "2026-10-21T16:19:59.852Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -611,6 +611,58 @@
       "last_pushed_at": "2026-09-29T17:04:28.815Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:880": {
+      "kind": "problem",
+      "id": "880",
+      "title": "Create a Float Tensor from a Python List",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/880",
+      "path": "problems/0880-create-a-float-tensor-from-a-python-list",
+      "first_solved_at": "2026-10-03T19:14:54.188Z",
+      "last_pushed_at": "2026-10-03T19:14:54.188Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:881": {
+      "kind": "problem",
+      "id": "881",
+      "title": "Reshape and Transpose a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/881",
+      "path": "problems/0881-reshape-and-transpose-a-tensor",
+      "first_solved_at": "2026-10-03T19:22:39.148Z",
+      "last_pushed_at": "2026-10-03T19:22:39.148Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:905": {
+      "kind": "problem",
+      "id": "905",
+      "title": "Implement a Transformer Encoder Block",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/905",
+      "path": "problems/0905-implement-a-transformer-encoder-block",
+      "first_solved_at": "2026-10-03T19:40:20.029Z",
+      "last_pushed_at": "2026-10-03T19:40:20.029Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:1232": {
+      "kind": "problem",
+      "id": "1232",
+      "title": "Conv2d Output Shape",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1232",
+      "path": "problems/1232-conv2d-output-shape",
+      "first_solved_at": "2026-10-03T19:44:57.571Z",
+      "last_pushed_at": "2026-10-03T19:44:57.571Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
