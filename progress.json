@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:19:59.852Z",
+  "generated_at": "2026-10-21T16:20:02.488Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -663,6 +663,32 @@
       "last_pushed_at": "2026-10-03T19:44:57.571Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:888": {
+      "kind": "problem",
+      "id": "888",
+      "title": "Save and Load Model Weights with state_dict",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/888",
+      "path": "problems/0888-save-and-load-model-weights-with-state-dict",
+      "first_solved_at": "2026-10-13T02:31:53.538Z",
+      "last_pushed_at": "2026-10-13T02:31:53.538Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:913": {
+      "kind": "problem",
+      "id": "913",
+      "title": "Early Stopping with Patience",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/913",
+      "path": "problems/0913-early-stopping-with-patience",
+      "first_solved_at": "2026-10-13T03:10:17.648Z",
+      "last_pushed_at": "2026-10-13T03:10:17.648Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
