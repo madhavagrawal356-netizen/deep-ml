@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:20:02.488Z",
+  "generated_at": "2026-10-21T16:20:04.799Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -689,6 +689,58 @@
       "last_pushed_at": "2026-10-13T03:10:17.648Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:907": {
+      "kind": "problem",
+      "id": "907",
+      "title": "Implement an LSTM Cell from Scratch",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/907",
+      "path": "problems/0907-implement-an-lstm-cell-from-scratch",
+      "first_solved_at": "2026-10-14T20:33:09.236Z",
+      "last_pushed_at": "2026-10-14T20:33:09.236Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:918": {
+      "kind": "problem",
+      "id": "918",
+      "title": "Build a Tiny GPT",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/918",
+      "path": "problems/0918-build-a-tiny-gpt",
+      "first_solved_at": "2026-10-14T21:01:41.988Z",
+      "last_pushed_at": "2026-10-14T21:01:41.988Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:904": {
+      "kind": "problem",
+      "id": "904",
+      "title": "Implement Multi-Head Self-Attention",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/904",
+      "path": "problems/0904-implement-multi-head-self-attention",
+      "first_solved_at": "2026-10-14T21:38:49.928Z",
+      "last_pushed_at": "2026-10-14T21:38:49.928Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:917": {
+      "kind": "problem",
+      "id": "917",
+      "title": "Implement a ResNet Basic Block",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/917",
+      "path": "problems/0917-implement-a-resnet-basic-block",
+      "first_solved_at": "2026-10-14T21:50:11.403Z",
+      "last_pushed_at": "2026-10-14T21:50:11.403Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
