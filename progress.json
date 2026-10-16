@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:20:07.131Z",
+  "generated_at": "2026-10-21T16:20:09.703Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -819,6 +819,71 @@
       "last_pushed_at": "2026-10-15T20:58:33.274Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:1224": {
+      "kind": "problem",
+      "id": "1224",
+      "title": "Single Linear Neuron Forward",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1224",
+      "path": "problems/1224-single-linear-neuron-forward",
+      "first_solved_at": "2026-10-16T19:02:11.068Z",
+      "last_pushed_at": "2026-10-16T19:02:11.068Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:1223": {
+      "kind": "problem",
+      "id": "1223",
+      "title": "Gradient of a Weighted Sum of Squares",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1223",
+      "path": "problems/1223-gradient-of-a-weighted-sum-of-squares",
+      "first_solved_at": "2026-10-16T19:12:40.465Z",
+      "last_pushed_at": "2026-10-16T19:12:40.465Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:20": {
+      "kind": "problem",
+      "id": "20",
+      "title": "Decision Tree Learning",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/20",
+      "path": "problems/0020-decision-tree-learning",
+      "first_solved_at": "2026-10-16T19:25:03.589Z",
+      "last_pushed_at": "2026-10-16T19:25:03.589Z",
+      "language": "python",
+      "lines": 67
+    },
+    "problem:169": {
+      "kind": "problem",
+      "id": "169",
+      "title": "Implement AdamW Optimizer Step",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/169",
+      "path": "problems/0169-implement-adamw-optimizer-step",
+      "first_solved_at": "2026-10-16T19:42:15.791Z",
+      "last_pushed_at": "2026-10-16T19:42:15.791Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:1127": {
+      "kind": "problem",
+      "id": "1127",
+      "title": "Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)",
+      "difficulty": "medium",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1127",
+      "path": "problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric",
+      "first_solved_at": "2026-10-16T20:04:15.935Z",
+      "last_pushed_at": "2026-10-16T20:04:15.935Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }

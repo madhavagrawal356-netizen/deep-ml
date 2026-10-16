@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**63** solved · 63 problems · 0 labs · 0 math
+**68** solved · 68 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-10-03 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Save and Load Model Weights with state_dict](https://www.deep-ml.com/problems/888) | easy | 2026-10-13 | [solution](problems/0888-save-and-load-model-weights-with-state-dict) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-09-04 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-10-16 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-09-04 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-04 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Sycophancy Rate from Paired Belief Prompts](https://www.deep-ml.com/problems/1334) | easy | 2026-09-16 | [solution](problems/1334-sycophancy-rate-from-paired-belief-prompts) |
@@ -49,9 +50,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-09-24 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Dropout in Train vs Eval Mode](https://www.deep-ml.com/problems/1230) | medium | 2026-10-15 | [solution](problems/1230-dropout-in-train-vs-eval-mode) |
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2026-09-20 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
+| [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-10-16 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
+| [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-10-16 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 | [Implement a ResNet Basic Block](https://www.deep-ml.com/problems/917) | medium | 2026-10-14 | [solution](problems/0917-implement-a-resnet-basic-block) |
 | [Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/905) | medium | 2026-10-03 | [solution](problems/0905-implement-a-transformer-encoder-block) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-09-06 | [solution](problems/0049-implement-adam-optimization-algorithm) |
+| [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-10-16 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement an LSTM Cell from Scratch](https://www.deep-ml.com/problems/907) | medium | 2026-10-14 | [solution](problems/0907-implement-an-lstm-cell-from-scratch) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-09-06 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-09-08 | [solution](problems/0107-implement-masked-self-attention) |
@@ -73,6 +77,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-09-07 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [Build a Tiny GPT](https://www.deep-ml.com/problems/918) | hard | 2026-10-14 | [solution](problems/0918-build-a-tiny-gpt) |
 | [Causal and Padding Masks with scaled_dot_product_attention](https://www.deep-ml.com/problems/1346) | hard | 2026-10-15 | [solution](problems/1346-causal-and-padding-masks-with-scaled-dot-product-attention) |
+| [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-10-16 | [solution](problems/0020-decision-tree-learning) |
 | [Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/904) | hard | 2026-10-14 | [solution](problems/0904-implement-multi-head-self-attention) |
 | [Trade Compute for Memory with Gradient Checkpointing](https://www.deep-ml.com/problems/1342) | hard | 2026-10-15 | [solution](problems/1342-trade-compute-for-memory-with-gradient-checkpointing) |
 
