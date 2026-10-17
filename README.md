@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**68** solved · 68 problems · 0 labs · 0 math
+**72** solved · 72 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2026-09-17 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
 | [Conv2d Output Shape](https://www.deep-ml.com/problems/1232) | easy | 2026-10-03 | [solution](problems/1232-conv2d-output-shape) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-10-03 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
+| [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-10-17 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-09-19 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Early Stopping with Patience](https://www.deep-ml.com/problems/913) | easy | 2026-10-13 | [solution](problems/0913-early-stopping-with-patience) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-09-29 | [solution](problems/0147-gelu-activation-function) |
@@ -67,6 +68,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-09-20 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [Math Answer Verification with Equivalence Checking](https://www.deep-ml.com/problems/319) | medium | 2026-09-20 | [solution](problems/0319-math-answer-verification-with-equivalence-checking) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-09-16 | [solution](problems/0316-mmlu-log-probability-scoring) |
+| [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-10-17 | [solution](problems/0221-newton-s-method-for-optimization) |
 | [nn.ModuleList vs a Plain Python List](https://www.deep-ml.com/problems/1341) | medium | 2026-10-15 | [solution](problems/1341-nn-modulelist-vs-a-plain-python-list) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-09-23 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-09-21 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
@@ -75,9 +77,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-04 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-09-08 | [solution](problems/0231-temperature-decay-scheduler) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-09-07 | [solution](problems/0089-the-pattern-weaver-s-code) |
+| [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-10-17 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
 | [Build a Tiny GPT](https://www.deep-ml.com/problems/918) | hard | 2026-10-14 | [solution](problems/0918-build-a-tiny-gpt) |
 | [Causal and Padding Masks with scaled_dot_product_attention](https://www.deep-ml.com/problems/1346) | hard | 2026-10-15 | [solution](problems/1346-causal-and-padding-masks-with-scaled-dot-product-attention) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-10-16 | [solution](problems/0020-decision-tree-learning) |
+| [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-17 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/904) | hard | 2026-10-14 | [solution](problems/0904-implement-multi-head-self-attention) |
 | [Trade Compute for Memory with Gradient Checkpointing](https://www.deep-ml.com/problems/1342) | hard | 2026-10-15 | [solution](problems/1342-trade-compute-for-memory-with-gradient-checkpointing) |
 
