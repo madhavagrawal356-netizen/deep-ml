@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:20:12.233Z",
+  "generated_at": "2026-10-21T16:20:14.407Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -936,6 +936,45 @@
       "last_pushed_at": "2026-10-17T21:21:37.714Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:202": {
+      "kind": "problem",
+      "id": "202",
+      "title": "Jacobian Matrix Calculation",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/202",
+      "path": "problems/0202-jacobian-matrix-calculation",
+      "first_solved_at": "2026-10-18T21:10:31.078Z",
+      "last_pushed_at": "2026-10-18T21:10:31.078Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:219": {
+      "kind": "problem",
+      "id": "219",
+      "title": "Derivative of Softmax",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/219",
+      "path": "problems/0219-derivative-of-softmax",
+      "first_solved_at": "2026-10-18T21:31:42.225Z",
+      "last_pushed_at": "2026-10-18T21:31:42.225Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:382": {
+      "kind": "problem",
+      "id": "382",
+      "title": "Direct Preference Optimization (DPO) Loss",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/382",
+      "path": "problems/0382-direct-preference-optimization-dpo-loss",
+      "first_solved_at": "2026-10-18T21:45:25.205Z",
+      "last_pushed_at": "2026-10-18T21:45:25.205Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }

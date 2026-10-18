@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**72** solved · 72 problems · 0 labs · 0 math
+**75** solved · 75 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -49,6 +49,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-07 | [solution](problems/0087-adam-optimizer) |
 | [Apply a 2D Convolution](https://www.deep-ml.com/problems/1233) | medium | 2026-10-15 | [solution](problems/1233-apply-a-2d-convolution) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-09-24 | [solution](problems/0218-compute-the-hessian-matrix) |
+| [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-10-18 | [solution](problems/0219-derivative-of-softmax) |
+| [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-10-18 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
 | [Dropout in Train vs Eval Mode](https://www.deep-ml.com/problems/1230) | medium | 2026-10-15 | [solution](problems/1230-dropout-in-train-vs-eval-mode) |
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2026-09-20 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
 | [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-10-16 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
@@ -65,6 +67,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Noisy Top-K Gating Function](https://www.deep-ml.com/problems/124) | medium | 2026-09-09 | [solution](problems/0124-implement-the-noisy-top-k-gating-function) |
 | [Implement Xavier/Glorot Weight Initialization](https://www.deep-ml.com/problems/289) | medium | 2026-09-29 | [solution](problems/0289-implement-xavier-glorot-weight-initialization) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-06 | [solution](problems/0054-implementing-a-simple-rnn) |
+| [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-10-18 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-09-20 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [Math Answer Verification with Equivalence Checking](https://www.deep-ml.com/problems/319) | medium | 2026-09-20 | [solution](problems/0319-math-answer-verification-with-equivalence-checking) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-09-16 | [solution](problems/0316-mmlu-log-probability-scoring) |
