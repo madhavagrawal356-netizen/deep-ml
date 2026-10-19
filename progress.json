@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:20:14.407Z",
+  "generated_at": "2026-10-21T16:20:16.709Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -975,6 +975,45 @@
       "last_pushed_at": "2026-10-18T21:45:25.205Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:151": {
+      "kind": "problem",
+      "id": "151",
+      "title": "Dropout Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/151",
+      "path": "problems/0151-dropout-layer",
+      "first_solved_at": "2026-10-19T15:09:02.165Z",
+      "last_pushed_at": "2026-10-19T15:09:02.165Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:303": {
+      "kind": "problem",
+      "id": "303",
+      "title": "Forward Diffusion Process",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/303",
+      "path": "problems/0303-forward-diffusion-process",
+      "first_solved_at": "2026-10-19T15:22:27.418Z",
+      "last_pushed_at": "2026-10-19T15:22:27.418Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:491": {
+      "kind": "problem",
+      "id": "491",
+      "title": "Build a Transformer Encoder Layer",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/491",
+      "path": "problems/0491-build-a-transformer-encoder-layer",
+      "first_solved_at": "2026-10-19T15:35:13.943Z",
+      "last_pushed_at": "2026-10-19T15:35:13.943Z",
+      "language": "python",
+      "lines": 54
     }
   }
 }
