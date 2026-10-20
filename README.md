@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**78** solved · 78 problems · 0 labs · 0 math
+**81** solved · 81 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -62,6 +62,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-09-06 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-10-16 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement an LSTM Cell from Scratch](https://www.deep-ml.com/problems/907) | medium | 2026-10-14 | [solution](problems/0907-implement-an-lstm-cell-from-scratch) |
+| [Implement Focal Loss](https://www.deep-ml.com/problems/915) | medium | 2026-10-20 | [solution](problems/0915-implement-focal-loss) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-09-06 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-09-08 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-09-08 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
@@ -75,6 +76,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-09-16 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-10-17 | [solution](problems/0221-newton-s-method-for-optimization) |
 | [nn.ModuleList vs a Plain Python List](https://www.deep-ml.com/problems/1341) | medium | 2026-10-15 | [solution](problems/1341-nn-modulelist-vs-a-plain-python-list) |
+| [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-10-20 | [solution](problems/1219-one-training-step) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-09-23 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-09-21 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [Rubric-Based LLM Judge Evaluation](https://www.deep-ml.com/problems/317) | medium | 2026-09-20 | [solution](problems/0317-rubric-based-llm-judge-evaluation) |
@@ -89,6 +91,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-10-16 | [solution](problems/0020-decision-tree-learning) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-17 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/904) | hard | 2026-10-14 | [solution](problems/0904-implement-multi-head-self-attention) |
+| [Preference Dataset Collate Function for DPO](https://www.deep-ml.com/problems/1069) | hard | 2026-10-20 | [solution](problems/1069-preference-dataset-collate-function-for-dpo) |
 | [Trade Compute for Memory with Gradient Checkpointing](https://www.deep-ml.com/problems/1342) | hard | 2026-10-15 | [solution](problems/1342-trade-compute-for-memory-with-gradient-checkpointing) |
 
 ---
