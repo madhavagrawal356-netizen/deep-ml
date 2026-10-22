@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**85** solved · 85 problems · 0 labs · 0 math
+**86** solved · 86 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-10-17 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-09-19 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Early Stopping with Patience](https://www.deep-ml.com/problems/913) | easy | 2026-10-13 | [solution](problems/0913-early-stopping-with-patience) |
+| [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-10-22 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-09-29 | [solution](problems/0147-gelu-activation-function) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-09-21 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement He Weight Initialization](https://www.deep-ml.com/problems/290) | easy | 2026-09-21 | [solution](problems/0290-implement-he-weight-initialization) |
