@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**91** solved · 91 problems · 0 labs · 0 math
+**92** solved · 92 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -58,6 +58,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-10-19 | [solution](problems/0151-dropout-layer) |
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2026-09-20 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
 | [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-10-16 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
+| [Fine-Tune Model Weights with RLHF Policy Gradient](https://www.deep-ml.com/problems/361) | medium | 2026-10-23 | [solution](problems/0361-fine-tune-model-weights-with-rlhf-policy-gradient) |
 | [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-10-19 | [solution](problems/0303-forward-diffusion-process) |
 | [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-10-16 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 | [Implement a ResNet Basic Block](https://www.deep-ml.com/problems/917) | medium | 2026-10-14 | [solution](problems/0917-implement-a-resnet-basic-block) |
