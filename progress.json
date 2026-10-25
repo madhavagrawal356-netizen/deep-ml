@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:58:20.227Z",
+  "generated_at": "2026-10-25T19:17:54.306Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -1261,6 +1261,19 @@
       "last_pushed_at": "2026-10-25T18:58:18.868Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:1349": {
+      "kind": "problem",
+      "id": "1349",
+      "title": "Class-Balanced Sampling with WeightedRandomSampler",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1349",
+      "path": "problems/1349-class-balanced-sampling-with-weightedrandomsampler",
+      "first_solved_at": "2026-10-25T19:17:53.253Z",
+      "last_pushed_at": "2026-10-25T19:17:53.253Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**97** solved · 97 problems · 0 labs · 0 math
+**98** solved · 98 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bellman Expectation Equation for State-Value Function](https://www.deep-ml.com/problems/464) | medium | 2026-10-25 | [solution](problems/0464-bellman-expectation-equation-for-state-value-function) |
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-10-21 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-10-25 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
+| [Class-Balanced Sampling with WeightedRandomSampler](https://www.deep-ml.com/problems/1349) | medium | 2026-10-25 | [solution](problems/1349-class-balanced-sampling-with-weightedrandomsampler) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-09-24 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-10-18 | [solution](problems/0219-derivative-of-softmax) |
 | [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-10-18 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
