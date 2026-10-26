@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T19:17:54.306Z",
+  "generated_at": "2026-10-26T16:00:25.149Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -1274,6 +1274,19 @@
       "last_pushed_at": "2026-10-25T19:17:53.253Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:110": {
+      "kind": "problem",
+      "id": "110",
+      "title": "Evaluate Translation Quality with METEOR Score",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/110",
+      "path": "problems/0110-evaluate-translation-quality-with-meteor-score",
+      "first_solved_at": "2026-10-26T16:00:23.596Z",
+      "last_pushed_at": "2026-10-26T16:00:23.596Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
