@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:04:34.693Z",
+  "generated_at": "2026-10-27T17:29:59.848Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -1339,6 +1339,19 @@
       "last_pushed_at": "2026-10-27T17:04:33.483Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:477": {
+      "kind": "problem",
+      "id": "477",
+      "title": "Double Q-Learning Algorithm",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/477",
+      "path": "problems/0477-double-q-learning-algorithm",
+      "first_solved_at": "2026-10-27T17:29:58.515Z",
+      "last_pushed_at": "2026-10-27T17:29:58.515Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }

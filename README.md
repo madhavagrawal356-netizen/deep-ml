@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**103** solved · 103 problems · 0 labs · 0 math
+**104** solved · 104 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -60,6 +60,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-09-24 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-10-18 | [solution](problems/0219-derivative-of-softmax) |
 | [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-10-18 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
+| [Double Q-Learning Algorithm](https://www.deep-ml.com/problems/477) | medium | 2026-10-27 | [solution](problems/0477-double-q-learning-algorithm) |
 | [Dropout in Train vs Eval Mode](https://www.deep-ml.com/problems/1230) | medium | 2026-10-15 | [solution](problems/1230-dropout-in-train-vs-eval-mode) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-10-19 | [solution](problems/0151-dropout-layer) |
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2026-09-20 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
