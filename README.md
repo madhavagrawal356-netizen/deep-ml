@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**102** solved · 102 problems · 0 labs · 0 math
+**103** solved · 103 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -88,6 +88,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [KL-Threshold Adaptive Loop Stopping](https://www.deep-ml.com/problems/1393) | medium | 2026-10-27 | [solution](problems/1393-kl-threshold-adaptive-loop-stopping) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-09-20 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [Math Answer Verification with Equivalence Checking](https://www.deep-ml.com/problems/319) | medium | 2026-09-20 | [solution](problems/0319-math-answer-verification-with-equivalence-checking) |
+| [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-10-27 | [solution](problems/1129-merge-multiple-dataframes) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-09-16 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-10-17 | [solution](problems/0221-newton-s-method-for-optimization) |
 | [nn.ModuleList vs a Plain Python List](https://www.deep-ml.com/problems/1341) | medium | 2026-10-15 | [solution](problems/1341-nn-modulelist-vs-a-plain-python-list) |
