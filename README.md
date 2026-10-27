@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**100** solved · 100 problems · 0 labs · 0 math
+**101** solved · 101 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -48,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-04 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Sycophancy Rate from Paired Belief Prompts](https://www.deep-ml.com/problems/1334) | easy | 2026-09-16 | [solution](problems/1334-sycophancy-rate-from-paired-belief-prompts) |
 | [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-09-08 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
+| [The Logit Margin and the Precision Cliff](https://www.deep-ml.com/problems/1662) | easy | 2026-10-27 | [solution](problems/1662-the-logit-margin-and-the-precision-cliff) |
 | [A collate_fn for Variable-Length Sequences](https://www.deep-ml.com/problems/1348) | medium | 2026-10-22 | [solution](problems/1348-a-collate-fn-for-variable-length-sequences) |
 | [Adadelta Optimizer](https://www.deep-ml.com/problems/149) | medium | 2026-09-07 | [solution](problems/0149-adadelta-optimizer) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-07 | [solution](problems/0087-adam-optimizer) |
