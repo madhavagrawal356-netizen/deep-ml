@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T17:06:22.163Z",
+  "generated_at": "2026-10-28T17:15:37.291Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -1365,6 +1365,19 @@
       "last_pushed_at": "2026-10-28T17:06:20.501Z",
       "language": "python",
       "lines": 62
+    },
+    "problem:735": {
+      "kind": "problem",
+      "id": "735",
+      "title": "Overlapping Weighted KV Compression",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/735",
+      "path": "problems/0735-overlapping-weighted-kv-compression",
+      "first_solved_at": "2026-10-28T17:15:35.842Z",
+      "last_pushed_at": "2026-10-28T17:15:35.842Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
