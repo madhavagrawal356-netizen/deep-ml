@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T16:42:00.635Z",
+  "generated_at": "2026-10-29T16:49:06.517Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -1417,6 +1417,19 @@
       "last_pushed_at": "2026-10-29T16:41:58.209Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:1356": {
+      "kind": "problem",
+      "id": "1356",
+      "title": "Combine Correlated Alphas into Robust Weights",
+      "difficulty": "hard",
+      "category": "Financial Engineering",
+      "url": "https://www.deep-ml.com/problems/1356",
+      "path": "problems/1356-combine-correlated-alphas-into-robust-weights",
+      "first_solved_at": "2026-10-29T16:49:05.556Z",
+      "last_pushed_at": "2026-10-29T16:49:05.556Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
