@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T02:00:09.137Z",
+  "generated_at": "2026-10-31T02:08:05.496Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -1456,6 +1456,19 @@
       "last_pushed_at": "2026-10-31T02:00:07.909Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:1780": {
+      "kind": "problem",
+      "id": "1780",
+      "title": "Steepest Descent with Exact and Armijo Line Search",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/1780",
+      "path": "problems/1780-steepest-descent-with-exact-and-armijo-line-search",
+      "first_solved_at": "2026-10-31T02:08:04.271Z",
+      "last_pushed_at": "2026-10-31T02:08:04.271Z",
+      "language": "python",
+      "lines": 83
     }
   }
 }
