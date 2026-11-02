@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**118** solved · 118 problems · 0 labs · 0 math
+**119** solved · 119 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -103,6 +103,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [One Adam Update Step](https://www.deep-ml.com/problems/1236) | medium | 2026-10-21 | [solution](problems/1236-one-adam-update-step) |
 | [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-10-20 | [solution](problems/1219-one-training-step) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-09-23 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
+| [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-11-02 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-09-21 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [Rubric-Based LLM Judge Evaluation](https://www.deep-ml.com/problems/317) | medium | 2026-09-20 | [solution](problems/0317-rubric-based-llm-judge-evaluation) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-10-15 | [solution](problems/1235-sgd-with-momentum-step) |
