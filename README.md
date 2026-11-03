@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**120** solved · 120 problems · 0 labs · 0 math
+**121** solved · 121 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -129,6 +129,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Preference Dataset Collate Function for DPO](https://www.deep-ml.com/problems/1069) | hard | 2026-10-20 | [solution](problems/1069-preference-dataset-collate-function-for-dpo) |
 | [Purged Walk-Forward Cross-Validation](https://www.deep-ml.com/problems/1351) | hard | 2026-10-29 | [solution](problems/1351-purged-walk-forward-cross-validation) |
 | [REINFORCE with Baseline: Episode Update](https://www.deep-ml.com/problems/481) | hard | 2026-10-31 | [solution](problems/0481-reinforce-with-baseline-episode-update) |
+| [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-11-03 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Trade Compute for Memory with Gradient Checkpointing](https://www.deep-ml.com/problems/1342) | hard | 2026-10-15 | [solution](problems/1342-trade-compute-for-memory-with-gradient-checkpointing) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-01 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-10-22 | [solution](problems/0211-two-sample-t-test-implementation) |
