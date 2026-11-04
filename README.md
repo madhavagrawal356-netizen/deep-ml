@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**127** solved · 127 problems · 0 labs · 0 math
+**128** solved · 128 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adamax Optimizer](https://www.deep-ml.com/problems/148) | easy | 2026-09-24 | [solution](problems/0148-adamax-optimizer) |
 | [Auto-Sized MLP from Gym Spaces](https://www.deep-ml.com/problems/673) | easy | 2026-10-25 | [solution](problems/0673-auto-sized-mlp-from-gym-spaces) |
 | [Calculate Computational Efficiency of MoE](https://www.deep-ml.com/problems/123) | easy | 2026-09-10 | [solution](problems/0123-calculate-computational-efficiency-of-moe) |
+| [Calculate Portfolio Variance](https://www.deep-ml.com/problems/183) | easy | 2026-11-04 | [solution](problems/0183-calculate-portfolio-variance) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2026-09-17 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
 | [Conv2d Output Shape](https://www.deep-ml.com/problems/1232) | easy | 2026-10-03 | [solution](problems/1232-conv2d-output-shape) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-10-03 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
