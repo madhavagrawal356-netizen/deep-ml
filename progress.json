@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T20:26:40.559Z",
+  "generated_at": "2026-11-04T17:41:36.177Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -1612,6 +1612,19 @@
       "last_pushed_at": "2026-11-03T20:26:40.214Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:832": {
+      "kind": "problem",
+      "id": "832",
+      "title": "Image Segmentation via K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/832",
+      "path": "problems/0832-image-segmentation-via-k-means-clustering",
+      "first_solved_at": "2026-11-04T17:41:34.824Z",
+      "last_pushed_at": "2026-11-04T17:41:34.824Z",
+      "language": "python",
+      "lines": 63
     }
   }
 }
