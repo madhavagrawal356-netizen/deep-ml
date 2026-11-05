@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**128** solved · 128 problems · 0 labs · 0 math
+**129** solved · 129 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -66,6 +66,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-09-24 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Cython vs Python Performance for Array Operations](https://www.deep-ml.com/problems/676) | medium | 2026-10-28 | [solution](problems/0676-cython-vs-python-performance-for-array-operations) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-10-18 | [solution](problems/0219-derivative-of-softmax) |
+| [Detect Look-Ahead Bias in a Feature Pipeline](https://www.deep-ml.com/problems/1352) | medium | 2026-11-05 | [solution](problems/1352-detect-look-ahead-bias-in-a-feature-pipeline) |
 | [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-10-18 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
 | [Double Q-Learning Algorithm](https://www.deep-ml.com/problems/477) | medium | 2026-10-27 | [solution](problems/0477-double-q-learning-algorithm) |
 | [Dropout in Train vs Eval Mode](https://www.deep-ml.com/problems/1230) | medium | 2026-10-15 | [solution](problems/1230-dropout-in-train-vs-eval-mode) |

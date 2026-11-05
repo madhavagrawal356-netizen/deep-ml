@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T18:22:04.603Z",
+  "generated_at": "2026-11-05T17:18:35.683Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -1664,6 +1664,19 @@
       "last_pushed_at": "2026-11-04T18:22:03.226Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:1352": {
+      "kind": "problem",
+      "id": "1352",
+      "title": "Detect Look-Ahead Bias in a Feature Pipeline",
+      "difficulty": "medium",
+      "category": "Financial Engineering",
+      "url": "https://www.deep-ml.com/problems/1352",
+      "path": "problems/1352-detect-look-ahead-bias-in-a-feature-pipeline",
+      "first_solved_at": "2026-11-05T17:18:34.925Z",
+      "last_pushed_at": "2026-11-05T17:18:34.925Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
