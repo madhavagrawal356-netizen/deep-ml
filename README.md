@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**129** solved · 129 problems · 0 labs · 0 math
+**130** solved · 130 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -106,6 +106,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-09-16 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-10-17 | [solution](problems/0221-newton-s-method-for-optimization) |
 | [nn.ModuleList vs a Plain Python List](https://www.deep-ml.com/problems/1341) | medium | 2026-10-15 | [solution](problems/1341-nn-modulelist-vs-a-plain-python-list) |
+| [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-11-05 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [One Adam Update Step](https://www.deep-ml.com/problems/1236) | medium | 2026-10-21 | [solution](problems/1236-one-adam-update-step) |
 | [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-10-20 | [solution](problems/1219-one-training-step) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-09-23 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
