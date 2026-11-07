@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**134** solved · 134 problems · 0 labs · 0 math
+**135** solved · 135 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -130,6 +130,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Causal and Padding Masks with scaled_dot_product_attention](https://www.deep-ml.com/problems/1346) | hard | 2026-10-15 | [solution](problems/1346-causal-and-padding-masks-with-scaled-dot-product-attention) |
 | [Combine Correlated Alphas into Robust Weights](https://www.deep-ml.com/problems/1356) | hard | 2026-10-29 | [solution](problems/1356-combine-correlated-alphas-into-robust-weights) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-10-16 | [solution](problems/0020-decision-tree-learning) |
+| [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-11-07 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-17 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/904) | hard | 2026-10-14 | [solution](problems/0904-implement-multi-head-self-attention) |
 | [Implement Sigmoid MoE Router with Bias Correction](https://www.deep-ml.com/problems/458) | hard | 2026-11-07 | [solution](problems/0458-implement-sigmoid-moe-router-with-bias-correction) |
