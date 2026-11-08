@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T00:11:12.851Z",
+  "generated_at": "2026-11-08T00:24:21.720Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -1781,6 +1781,19 @@
       "last_pushed_at": "2026-11-08T00:11:12.116Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:1810": {
+      "kind": "problem",
+      "id": "1810",
+      "title": "Bi-Tempered Logistic Loss",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1810",
+      "path": "problems/1810-bi-tempered-logistic-loss",
+      "first_solved_at": "2026-11-08T00:24:21.014Z",
+      "last_pushed_at": "2026-11-08T00:24:21.014Z",
+      "language": "python",
+      "lines": 62
     }
   }
 }

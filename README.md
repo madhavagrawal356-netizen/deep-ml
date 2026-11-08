@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**137** solved · 137 problems · 0 labs · 0 math
+**138** solved · 138 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -127,6 +127,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-21 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [A KV Cache for Autoregressive Decoding](https://www.deep-ml.com/problems/1345) | hard | 2026-10-26 | [solution](problems/1345-a-kv-cache-for-autoregressive-decoding) |
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-10-17 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
+| [Bi-Tempered Logistic Loss](https://www.deep-ml.com/problems/1810) | hard | 2026-11-08 | [solution](problems/1810-bi-tempered-logistic-loss) |
 | [Build a Tiny GPT](https://www.deep-ml.com/problems/918) | hard | 2026-10-14 | [solution](problems/0918-build-a-tiny-gpt) |
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-10-19 | [solution](problems/0491-build-a-transformer-encoder-layer) |
 | [Causal and Padding Masks with scaled_dot_product_attention](https://www.deep-ml.com/problems/1346) | hard | 2026-10-15 | [solution](problems/1346-causal-and-padding-masks-with-scaled-dot-product-attention) |
