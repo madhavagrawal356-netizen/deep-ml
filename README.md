@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**136** solved · 136 problems · 0 labs · 0 math
+**137** solved · 137 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -77,6 +77,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-10-16 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
 | [Fine-Tune Model Weights with RLHF Policy Gradient](https://www.deep-ml.com/problems/361) | medium | 2026-10-23 | [solution](problems/0361-fine-tune-model-weights-with-rlhf-policy-gradient) |
 | [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-10-19 | [solution](problems/0303-forward-diffusion-process) |
+| [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-11-08 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-10-16 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 | [Image Segmentation via K-Means Clustering](https://www.deep-ml.com/problems/832) | medium | 2026-11-04 | [solution](problems/0832-image-segmentation-via-k-means-clustering) |
 | [Implement a ResNet Basic Block](https://www.deep-ml.com/problems/917) | medium | 2026-10-14 | [solution](problems/0917-implement-a-resnet-basic-block) |
