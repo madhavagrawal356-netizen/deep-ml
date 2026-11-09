@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:17:56.928Z",
+  "generated_at": "2026-11-09T17:43:37.248Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -1833,6 +1833,19 @@
       "last_pushed_at": "2026-11-09T17:17:57.408Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:1781": {
+      "kind": "problem",
+      "id": "1781",
+      "title": "BFGS and L-BFGS from Scratch",
+      "difficulty": "hard",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/1781",
+      "path": "problems/1781-bfgs-and-l-bfgs-from-scratch",
+      "first_solved_at": "2026-11-09T17:43:37.766Z",
+      "last_pushed_at": "2026-11-09T17:43:37.766Z",
+      "language": "python",
+      "lines": 124
     }
   }
 }
