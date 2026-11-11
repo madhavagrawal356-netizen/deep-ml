@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**146** solved · 146 problems · 0 labs · 0 math
+**147** solved · 147 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -149,6 +149,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Covariance Shrinkage](https://www.deep-ml.com/problems/1355) | hard | 2026-11-04 | [solution](problems/1355-linear-covariance-shrinkage) |
 | [NoPE (No Positional Embedding) with iRoPE Attention](https://www.deep-ml.com/problems/406) | hard | 2026-11-05 | [solution](problems/0406-nope-no-positional-embedding-with-irope-attention) |
 | [Overlapping Weighted KV Compression](https://www.deep-ml.com/problems/735) | hard | 2026-10-28 | [solution](problems/0735-overlapping-weighted-kv-compression) |
+| [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2026-11-11 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-10-28 | [solution](problems/0085-positional-encoding-calculator) |
 | [Preference Dataset Collate Function for DPO](https://www.deep-ml.com/problems/1069) | hard | 2026-10-20 | [solution](problems/1069-preference-dataset-collate-function-for-dpo) |
 | [Purged Walk-Forward Cross-Validation](https://www.deep-ml.com/problems/1351) | hard | 2026-10-29 | [solution](problems/1351-purged-walk-forward-cross-validation) |
