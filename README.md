@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**144** solved · 144 problems · 0 labs · 0 math
+**145** solved · 145 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -102,6 +102,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Noisy Top-K Gating Function](https://www.deep-ml.com/problems/124) | medium | 2026-09-09 | [solution](problems/0124-implement-the-noisy-top-k-gating-function) |
 | [Implement Xavier/Glorot Weight Initialization](https://www.deep-ml.com/problems/289) | medium | 2026-09-29 | [solution](problems/0289-implement-xavier-glorot-weight-initialization) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-06 | [solution](problems/0054-implementing-a-simple-rnn) |
+| [Inverse Kinematics of a 2-Link Planar Arm](https://www.deep-ml.com/problems/1211) | medium | 2026-11-11 | [solution](problems/1211-inverse-kinematics-of-a-2-link-planar-arm) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-10-18 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-11-02 | [solution](problems/0017-k-means-clustering) |
 | [KL-Threshold Adaptive Loop Stopping](https://www.deep-ml.com/problems/1393) | medium | 2026-10-27 | [solution](problems/1393-kl-threshold-adaptive-loop-stopping) |

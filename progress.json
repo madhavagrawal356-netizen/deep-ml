@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T18:32:20.460Z",
+  "generated_at": "2026-11-11T18:40:56.707Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -1872,6 +1872,19 @@
       "last_pushed_at": "2026-11-11T18:32:19.372Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:1211": {
+      "kind": "problem",
+      "id": "1211",
+      "title": "Inverse Kinematics of a 2-Link Planar Arm",
+      "difficulty": "medium",
+      "category": "Robotics",
+      "url": "https://www.deep-ml.com/problems/1211",
+      "path": "problems/1211-inverse-kinematics-of-a-2-link-planar-arm",
+      "first_solved_at": "2026-11-11T18:40:55.668Z",
+      "last_pushed_at": "2026-11-11T18:40:55.668Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
