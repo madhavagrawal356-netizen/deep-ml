@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**143** solved · 143 problems · 0 labs · 0 math
+**144** solved · 144 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -109,6 +109,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Log-Probability Ratio for Token Sequences](https://www.deep-ml.com/problems/489) | medium | 2026-11-02 | [solution](problems/0489-log-probability-ratio-for-token-sequences) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-09-20 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [Math Answer Verification with Equivalence Checking](https://www.deep-ml.com/problems/319) | medium | 2026-09-20 | [solution](problems/0319-math-answer-verification-with-equivalence-checking) |
+| [Memory Complexity: Full Space-Time vs. ST-Factorized Attention](https://www.deep-ml.com/problems/725) | medium | 2026-11-11 | [solution](problems/0725-memory-complexity-full-space-time-vs-st-factorized-attention) |
 | [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-10-27 | [solution](problems/1129-merge-multiple-dataframes) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-09-16 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-10-17 | [solution](problems/0221-newton-s-method-for-optimization) |
