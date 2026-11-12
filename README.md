@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**147** solved · 147 problems · 0 labs · 0 math
+**148** solved · 148 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -132,6 +132,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tokens-per-Second Throughput from Inference Intervals](https://www.deep-ml.com/problems/1032) | medium | 2026-10-23 | [solution](problems/1032-tokens-per-second-throughput-from-inference-intervals) |
 | [Top-p (Nucleus) Sampling](https://www.deep-ml.com/problems/383) | medium | 2026-11-04 | [solution](problems/0383-top-p-nucleus-sampling) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-21 | [solution](problems/1225-two-layer-mlp-forward-pass) |
+| [Vectorizing with jax.vmap](https://www.deep-ml.com/problems/1328) | medium | 2026-11-12 | [solution](problems/1328-vectorizing-with-jax-vmap) |
 | [A KV Cache for Autoregressive Decoding](https://www.deep-ml.com/problems/1345) | hard | 2026-10-26 | [solution](problems/1345-a-kv-cache-for-autoregressive-decoding) |
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-10-17 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
 | [BFGS and L-BFGS from Scratch](https://www.deep-ml.com/problems/1781) | hard | 2026-11-09 | [solution](problems/1781-bfgs-and-l-bfgs-from-scratch) |
