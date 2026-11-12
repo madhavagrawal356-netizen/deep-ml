@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:02:17.082Z",
+  "generated_at": "2026-11-12T20:08:17.517Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -1935,6 +1935,19 @@
       "path": "problems/0299-implement-tick-bars-sampling",
       "first_solved_at": "2026-11-12T20:02:17.050Z",
       "last_pushed_at": "2026-11-12T20:02:17.050Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:608": {
+      "kind": "problem",
+      "id": "608",
+      "title": "Step-Size Selection for Tile Coding",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/608",
+      "path": "problems/0608-step-size-selection-for-tile-coding",
+      "first_solved_at": "2026-11-12T20:08:17.614Z",
+      "last_pushed_at": "2026-11-12T20:08:17.614Z",
       "language": "python",
       "lines": 35
     }

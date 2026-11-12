@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**149** solved · 149 problems · 0 labs · 0 math
+**150** solved · 150 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -49,6 +49,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-10-16 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-09-04 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-04 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Step-Size Selection for Tile Coding](https://www.deep-ml.com/problems/608) | easy | 2026-11-12 | [solution](problems/0608-step-size-selection-for-tile-coding) |
 | [Sycophancy Rate from Paired Belief Prompts](https://www.deep-ml.com/problems/1334) | easy | 2026-09-16 | [solution](problems/1334-sycophancy-rate-from-paired-belief-prompts) |
 | [Tensor Puzzle: Reverse a Vector](https://www.deep-ml.com/problems/1278) | easy | 2026-11-01 | [solution](problems/1278-tensor-puzzle-reverse-a-vector) |
 | [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-09-08 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
