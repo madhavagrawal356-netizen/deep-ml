@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**154** solved · 154 problems · 0 labs · 0 math
+**155** solved · 155 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -141,6 +141,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vectorizing with jax.vmap](https://www.deep-ml.com/problems/1328) | medium | 2026-11-12 | [solution](problems/1328-vectorizing-with-jax-vmap) |
 | [A KV Cache for Autoregressive Decoding](https://www.deep-ml.com/problems/1345) | hard | 2026-10-26 | [solution](problems/1345-a-kv-cache-for-autoregressive-decoding) |
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-10-17 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
+| [Assemble One Dynamic Chunking Stage](https://www.deep-ml.com/problems/1912) | hard | 2026-11-13 | [solution](problems/1912-assemble-one-dynamic-chunking-stage) |
 | [BFGS and L-BFGS from Scratch](https://www.deep-ml.com/problems/1781) | hard | 2026-11-09 | [solution](problems/1781-bfgs-and-l-bfgs-from-scratch) |
 | [Bi-Tempered Logistic Loss](https://www.deep-ml.com/problems/1810) | hard | 2026-11-08 | [solution](problems/1810-bi-tempered-logistic-loss) |
 | [Build a Tiny GPT](https://www.deep-ml.com/problems/918) | hard | 2026-10-14 | [solution](problems/0918-build-a-tiny-gpt) |
