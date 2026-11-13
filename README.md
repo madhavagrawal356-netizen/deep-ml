@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**153** solved · 153 problems · 0 labs · 0 math
+**154** solved · 154 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -77,6 +77,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Double Q-Learning Algorithm](https://www.deep-ml.com/problems/477) | medium | 2026-10-27 | [solution](problems/0477-double-q-learning-algorithm) |
 | [Dropout in Train vs Eval Mode](https://www.deep-ml.com/problems/1230) | medium | 2026-10-15 | [solution](problems/1230-dropout-in-train-vs-eval-mode) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-10-19 | [solution](problems/0151-dropout-layer) |
+| [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-11-13 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2026-09-20 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-10-26 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
 | [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-10-16 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
