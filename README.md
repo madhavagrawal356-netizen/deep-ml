@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**156** solved · 156 problems · 0 labs · 0 math
+**157** solved · 157 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -167,6 +167,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-11-03 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Trade Compute for Memory with Gradient Checkpointing](https://www.deep-ml.com/problems/1342) | hard | 2026-10-15 | [solution](problems/1342-trade-compute-for-memory-with-gradient-checkpointing) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-01 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
+| [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-11-16 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-10-22 | [solution](problems/0211-two-sample-t-test-implementation) |
 
 ---
