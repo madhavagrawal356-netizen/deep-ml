@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**158** solved · 158 problems · 0 labs · 0 math
+**159** solved · 159 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -166,6 +166,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [REINFORCE with Baseline: Episode Update](https://www.deep-ml.com/problems/481) | hard | 2026-10-31 | [solution](problems/0481-reinforce-with-baseline-episode-update) |
 | [Rotary Position Embeddings (RoPE)](https://www.deep-ml.com/problems/1347) | hard | 2026-11-03 | [solution](problems/1347-rotary-position-embeddings-rope) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-11-03 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
+| [Solve a Zero-Sum Matrix Game by Linear Programming](https://www.deep-ml.com/problems/2271) | hard | 2026-11-16 | [solution](problems/2271-solve-a-zero-sum-matrix-game-by-linear-programming) |
 | [Trade Compute for Memory with Gradient Checkpointing](https://www.deep-ml.com/problems/1342) | hard | 2026-10-15 | [solution](problems/1342-trade-compute-for-memory-with-gradient-checkpointing) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-01 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-11-16 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |

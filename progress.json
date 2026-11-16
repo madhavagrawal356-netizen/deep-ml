@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T17:56:56.352Z",
+  "generated_at": "2026-11-16T18:09:50.240Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -2054,6 +2054,19 @@
       "last_pushed_at": "2026-11-16T17:56:56.720Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:2271": {
+      "kind": "problem",
+      "id": "2271",
+      "title": "Solve a Zero-Sum Matrix Game by Linear Programming",
+      "difficulty": "hard",
+      "category": "Game Theory",
+      "url": "https://www.deep-ml.com/problems/2271",
+      "path": "problems/2271-solve-a-zero-sum-matrix-game-by-linear-programming",
+      "first_solved_at": "2026-11-16T18:09:50.637Z",
+      "last_pushed_at": "2026-11-16T18:09:50.637Z",
+      "language": "python",
+      "lines": 98
     }
   }
 }
