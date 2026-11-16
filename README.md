@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**159** solved · 159 problems · 0 labs · 0 math
+**160** solved · 159 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -171,6 +171,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-01 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-11-16 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-10-22 | [solution](problems/0211-two-sample-t-test-implementation) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-11-16 | [solution](labs/0009-design-your-own-activation-function) |
 
 ---
 
