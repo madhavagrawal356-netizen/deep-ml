@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**163** solved · 162 problems · 1 labs · 0 math
+**164** solved · 163 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -95,6 +95,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement an LSTM Cell from Scratch](https://www.deep-ml.com/problems/907) | medium | 2026-10-14 | [solution](problems/0907-implement-an-lstm-cell-from-scratch) |
 | [Implement Focal Loss](https://www.deep-ml.com/problems/915) | medium | 2026-10-20 | [solution](problems/0915-implement-focal-loss) |
 | [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-10-29 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
+| [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-11-17 | [solution](problems/0288-implement-grid-search) |
 | [Implement GRU Cell](https://www.deep-ml.com/problems/287) | medium | 2026-11-03 | [solution](problems/0287-implement-gru-cell) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-11-07 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-09-06 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
