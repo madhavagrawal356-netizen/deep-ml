@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T18:14:45.627Z",
+  "generated_at": "2026-11-17T17:17:22.893Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -2080,6 +2080,19 @@
       "last_pushed_at": "2026-11-16T18:14:46.029Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:150": {
+      "kind": "problem",
+      "id": "150",
+      "title": "Nesterov Accelerated Gradient Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/150",
+      "path": "problems/0150-nesterov-accelerated-gradient-optimizer",
+      "first_solved_at": "2026-11-17T17:17:24.130Z",
+      "last_pushed_at": "2026-11-17T17:17:24.130Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
