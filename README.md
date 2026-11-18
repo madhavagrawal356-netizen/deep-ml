@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**166** solved · 165 problems · 1 labs · 0 math
+**167** solved · 166 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -63,6 +63,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-07 | [solution](problems/0087-adam-optimizer) |
 | [Adaptive-Rate Fixes: AMSGrad, Yogi and ADOPT](https://www.deep-ml.com/problems/1784) | medium | 2026-11-08 | [solution](problems/1784-adaptive-rate-fixes-amsgrad-yogi-and-adopt) |
 | [Apply a 2D Convolution](https://www.deep-ml.com/problems/1233) | medium | 2026-10-15 | [solution](problems/1233-apply-a-2d-convolution) |
+| [Autocorrelation and the Ljung-Box Statistic](https://www.deep-ml.com/problems/1354) | medium | 2026-11-18 | [solution](problems/1354-autocorrelation-and-the-ljung-box-statistic) |
 | [Bellman Expectation Equation for Action-Value Function](https://www.deep-ml.com/problems/465) | medium | 2026-10-31 | [solution](problems/0465-bellman-expectation-equation-for-action-value-function) |
 | [Bellman Expectation Equation for State-Value Function](https://www.deep-ml.com/problems/464) | medium | 2026-10-25 | [solution](problems/0464-bellman-expectation-equation-for-state-value-function) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-11-09 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |

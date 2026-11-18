@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T18:13:02.817Z",
+  "generated_at": "2026-11-18T18:34:33.322Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -2158,6 +2158,19 @@
       "last_pushed_at": "2026-11-18T18:13:04.820Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:1354": {
+      "kind": "problem",
+      "id": "1354",
+      "title": "Autocorrelation and the Ljung-Box Statistic",
+      "difficulty": "medium",
+      "category": "Financial Engineering",
+      "url": "https://www.deep-ml.com/problems/1354",
+      "path": "problems/1354-autocorrelation-and-the-ljung-box-statistic",
+      "first_solved_at": "2026-11-18T18:34:35.383Z",
+      "last_pushed_at": "2026-11-18T18:34:35.383Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
