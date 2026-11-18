@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T18:34:33.322Z",
+  "generated_at": "2026-11-18T18:44:24.044Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -2171,6 +2171,19 @@
       "last_pushed_at": "2026-11-18T18:34:35.383Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:2268": {
+      "kind": "problem",
+      "id": "2268",
+      "title": "Black-Scholes Price and Greeks for European Options",
+      "difficulty": "medium",
+      "category": "Financial Engineering",
+      "url": "https://www.deep-ml.com/problems/2268",
+      "path": "problems/2268-black-scholes-price-and-greeks-for-european-options",
+      "first_solved_at": "2026-11-18T18:44:26.254Z",
+      "last_pushed_at": "2026-11-18T18:44:26.254Z",
+      "language": "python",
+      "lines": 64
     }
   }
 }

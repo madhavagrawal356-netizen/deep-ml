@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**167** solved · 166 problems · 1 labs · 0 math
+**168** solved · 167 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -68,6 +68,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bellman Expectation Equation for State-Value Function](https://www.deep-ml.com/problems/464) | medium | 2026-10-25 | [solution](problems/0464-bellman-expectation-equation-for-state-value-function) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-11-09 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-10-21 | [solution](problems/1229-binary-cross-entropy-from-logits) |
+| [Black-Scholes Price and Greeks for European Options](https://www.deep-ml.com/problems/2268) | medium | 2026-11-18 | [solution](problems/2268-black-scholes-price-and-greeks-for-european-options) |
 | [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-10-25 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-11-02 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/291) | medium | 2026-11-03 | [solution](problems/0291-calculate-number-of-parameters-in-neural-network) |
