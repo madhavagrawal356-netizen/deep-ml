@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T17:16:13.119Z",
+  "generated_at": "2026-11-19T17:36:33.213Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -2197,6 +2197,19 @@
       "last_pushed_at": "2026-11-19T17:16:16.185Z",
       "language": "python",
       "lines": 65
+    },
+    "problem:2266": {
+      "kind": "problem",
+      "id": "2266",
+      "title": "Probabilistic Sharpe Ratio Against a Benchmark",
+      "difficulty": "medium",
+      "category": "Financial Engineering",
+      "url": "https://www.deep-ml.com/problems/2266",
+      "path": "problems/2266-probabilistic-sharpe-ratio-against-a-benchmark",
+      "first_solved_at": "2026-11-19T17:36:36.250Z",
+      "last_pushed_at": "2026-11-19T17:36:36.250Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }

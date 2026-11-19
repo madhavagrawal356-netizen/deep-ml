@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**169** solved · 168 problems · 1 labs · 0 math
+**170** solved · 169 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -134,6 +134,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Order-n Polynomial Basis for Value Prediction](https://www.deep-ml.com/problems/1690) | medium | 2026-11-16 | [solution](problems/1690-order-n-polynomial-basis-for-value-prediction) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-09-23 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-11-02 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
+| [Probabilistic Sharpe Ratio Against a Benchmark](https://www.deep-ml.com/problems/2266) | medium | 2026-11-19 | [solution](problems/2266-probabilistic-sharpe-ratio-against-a-benchmark) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-09-21 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [Quaternion SLERP Interpolation](https://www.deep-ml.com/problems/1212) | medium | 2026-11-11 | [solution](problems/1212-quaternion-slerp-interpolation) |
 | [Random Sample Greedy Search](https://www.deep-ml.com/problems/638) | medium | 2026-11-19 | [solution](problems/0638-random-sample-greedy-search) |
