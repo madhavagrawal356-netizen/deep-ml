@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**170** solved · 169 problems · 1 labs · 0 math
+**171** solved · 170 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -165,6 +165,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-17 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/904) | hard | 2026-10-14 | [solution](problems/0904-implement-multi-head-self-attention) |
 | [Implement Sigmoid MoE Router with Bias Correction](https://www.deep-ml.com/problems/458) | hard | 2026-11-07 | [solution](problems/0458-implement-sigmoid-moe-router-with-bias-correction) |
+| [Implement Stacking Classifier](https://www.deep-ml.com/problems/346) | hard | 2026-11-21 | [solution](problems/0346-implement-stacking-classifier) |
 | [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2026-10-22 | [solution](problems/0101-implement-the-grpo-objective-function) |
 | [Linear Covariance Shrinkage](https://www.deep-ml.com/problems/1355) | hard | 2026-11-04 | [solution](problems/1355-linear-covariance-shrinkage) |
 | [NoPE (No Positional Embedding) with iRoPE Attention](https://www.deep-ml.com/problems/406) | hard | 2026-11-05 | [solution](problems/0406-nope-no-positional-embedding-with-irope-attention) |
